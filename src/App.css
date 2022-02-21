@@ -37,12 +37,15 @@ h3 {
 }
 
 #signin {
-  width: 70px;
-  height : 30px;
+  width: 90px;
+  height : 40px;
   border: white solid 1px;
   margin-right : 30px;
   color : white;
   font-size: large;
+  display : flex;
+  justify-content:center;
+  align-items:stretch ;
 }
 
 #sign {
@@ -51,10 +54,20 @@ h3 {
   align-items:center ;
 }
 
+#signin:hover {
+  background-color: white;
+  color : black;
+}
+
+#contactus:hover {
+  opacity: 50%;
+}
+#p{
+  margin-top : 6px;
+}
 #contactus {
-  width : 100px;
-  height : 30px;
-  border: white solid 1px;
+  width : 130px;
+  height : 40px;
   background-color: #F69546;
   color : white;
   font-size: large;
