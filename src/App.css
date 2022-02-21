@@ -144,9 +144,13 @@ h4 {
   align-items:flex-end;
   color : white;
 }
-
+#getstarted:hover {
+  opacity: 50%;;
+}
 #get {
   font-size: 26px;
+  position : relative;
+  top : 5px;
 }
 
 #check {
