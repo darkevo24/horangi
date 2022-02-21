@@ -162,3 +162,8 @@ h4 {
     flex-direction: column;
   }
 }
+@media (max-width : 900px){
+  #title {
+    flex-direction: column;
+  }
+}
