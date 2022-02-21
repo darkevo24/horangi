@@ -79,7 +79,7 @@ function App() {
     </div>
   </div>
   <div id="mid">
-  <h4>Starter</h4>
+  <h4>Pro</h4>
     <p id="us">USD $12,000</p>
     <br></br>
     <div id="line">
