@@ -139,7 +139,24 @@ h4 {
 #check {
   margin-right : 10px;
 }
+#title {
+  font-size: 20px;
+  display : flex;
+}
 
+#title1 {
+  margin : 25px;
+  font-weight: bold;
+}
+
+#lorem {
+  text-align: left;
+  width : 60%;
+}
+
+#lorem1 {
+  font-weight: bold;
+}
 @media (max-width : 1200px){
   #card {
     flex-direction: column;
