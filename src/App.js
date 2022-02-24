@@ -51,7 +51,7 @@ function App() {
 </nav>
 <br></br>
 <br></br>
-<h3>Warden Anual Subscription Pricing</h3>
+<h3>Warden Annual Subscription Pricing</h3>
 <p id="plan">A plan for everyone on the one-click cloud security platform</p>
 <br></br>
 <br></br>
@@ -127,7 +127,7 @@ function App() {
 <br></br>
 <br></br>
 <br></br>
-<h3>More On Warden Feature</h3>
+<h3>More On Warden Features</h3>
 <div id="title">
   <div id="title1">
   THREAT DETECTION
